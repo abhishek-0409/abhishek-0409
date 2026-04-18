@@ -107,7 +107,7 @@ Built a robust system with **structured API handling and UI state management**.
 
 * 📧 Email: [abhi040901@gmail.com](mailto:abhi040901@gmail.com)
 * 📍 Location: Pune, India
-* 💼 LinkedIn: *(add your link here)*
+
 
 ---
 

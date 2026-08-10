@@ -144,22 +144,7 @@ A clean, production-ready platform for discovering free public APIs with fast se
 
 </details>
 
-## GitHub Motion
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishek-0409&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=22c55e" alt="GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=abhishek-0409&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=22c55e&currStreakLabel=38bdf8" alt="GitHub streak" />
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-0409&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Top languages" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-0409&theme=react-dark&hide_border=true&bg_color=0d1117&color=38bdf8&line=22c55e&point=ffffff" alt="GitHub activity graph" />
-
-</div>
 
 ## Core Strengths
 
@@ -187,5 +172,6 @@ A clean, production-ready platform for discovering free public APIs with fast se
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:22c55e,50:7c3aed,100:0ea5e9&section=footer" alt="Profile footer wave" />
+
 
 

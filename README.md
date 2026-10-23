@@ -1,139 +1,181 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:38bdf8,45:8b5cf6,100:34d399" alt="" />
+<img src="assets/hero.svg" width="100%" alt="Abhishek Kumar, React Native Developer and Full-Stack Engineer, over floating isometric 3D cubes on a midnight grid" />
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&text=ABHISHEK%20KUMAR&fontSize=42&fontColor=E2E8F0&fontAlignY=38&desc=REACT%20NATIVE%20%E2%80%A2%20FULL-STACK%20ENGINEERING&descAlignY=60&descSize=14&animation=fadeIn&color=0:0b1020,45:312e81,100:0e7490" alt="Abhishek Kumar — React Native and full-stack engineering" />
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Building+mobile-first+products.;Engineering+real-time+experiences.;Connecting+clean+interfaces+to+reliable+APIs." alt="Building mobile-first products, real-time experiences, and reliable APIs" />
-</p>
+<a href="https://github.com/abhishek-0409">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&height=34&lines=Cross-platform+mobile+apps+with+React+Native+%2B+Expo;TypeScript+APIs+with+NestJS%2C+Node.js+and+PostgreSQL;Real-time+calling+with+Socket.IO+and+WebRTC" alt="Rotating tagline: cross-platform mobile apps, TypeScript APIs, real-time calling" />
+</a>
 
 <p>
-  <a href="https://abhishek04-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0B1020?style=for-the-badge&logo=vercel&logoColor=67E8F9" alt="Portfolio" /></a>
-  <a href="https://github.com/abhishek-0409"><img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="GitHub" /></a>
-  <a href="mailto:abhi040901@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0B1020?style=for-the-badge&logo=gmail&logoColor=FCA5A5" alt="Email" /></a>
+  <a href="https://abhishek04-portfolio.netlify.app/"><img src="https://img.shields.io/badge/portfolio-abhishek04--portfolio.netlify.app-22d3ee?style=flat-square&labelColor=0b1030" alt="Portfolio" /></a>
+  <a href="mailto:abhi040901@gmail.com"><img src="https://img.shields.io/badge/email-abhi040901%40gmail.com-8b5cf6?style=flat-square&labelColor=0b1030" alt="Email" /></a>
+  <a href="https://github.com/abhishek-0409"><img src="https://img.shields.io/badge/github-abhishek--0409-a3e635?style=flat-square&labelColor=0b1030" alt="GitHub" /></a>
 </p>
 
-<sub>📍 Pune, India  ·  Mobile products / Full-stack systems / Real-time applications</sub>
 </div>
 
-01 / The approach
-I build cross-platform applications and the systems behind them — from polished mobile experiences to typed APIs, data models, authentication, and real-time communication.
+<br/>
+
+## `01` About
+
+I build cross-platform mobile apps and the TypeScript backends behind them. Most of my work sits where the app meets the server: authentication, REST APIs, database design, and real-time features such as video calling.
+
+```ts
 const abhishek = {
-  focus: ["React Native", "Full-stack TypeScript", "Real-time systems"],
-  buildWith: ["Expo", "NestJS", "PostgreSQL", "Redis"],
-  realtime: ["Socket.IO", "WebRTC"],
-  principle: "Make the product useful. Make the system maintainable.",
+  based: "Pune, India",
+  role: ["React Native Developer", "Full-Stack Engineer"],
+  works_across: [
+    "Cross-platform mobile apps (React Native, Expo)",
+    "TypeScript full-stack systems (NestJS, Express, Next.js)",
+    "REST APIs and PostgreSQL schema design",
+    "Real-time communication (Socket.IO, WebRTC)",
+    "Auth, third-party integrations, product engineering",
+  ],
+  currently: "Building Med4U, a healthcare platform (patient app, doctor app, NestJS API)",
+  prefers: "Clear module boundaries and honest status notes over big claims",
 };
-02 / Selected work
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38bdf8,50:8b5cf6,100:34d399" alt="" />
-</div>
+```
 
-01 — NextTrip
-Travel package marketplace · Mobile / Backend / Platform
+<br/>
 
-A travel marketplace connecting travelers, vendors, and administrators through role-specific mobile applications.
-Platform snapshot	
-Dedicated role-based apps	3
-REST endpoints	95
-Backend service modules	17
-PostgreSQL tables	22
+## `02` Technology
 
+<table>
+  <tr>
+    <td width="130"><sub><code>MOBILE</code></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/React_Native-0b1030?style=for-the-badge&logo=react&logoColor=61dafb" height="40" alt="React Native" />
+      <img src="https://img.shields.io/badge/Expo-0b1030?style=for-the-badge&logo=expo&logoColor=white" height="40" alt="Expo" />
+    </td>
+  </tr>
+  <tr>
+    <td><sub><code>FRONTEND</code></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" height="40" alt="React, Next.js, TypeScript, Tailwind CSS" /></td>
+  </tr>
+  <tr>
+    <td><sub><code>BACKEND</code></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark" height="40" alt="Node.js, NestJS, Express" /></td>
+  </tr>
+  <tr>
+    <td><sub><code>DATA + INFRA</code></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,redis,supabase,docker&theme=dark" height="40" alt="PostgreSQL, Redis, Supabase, Docker" /></td>
+  </tr>
+  <tr>
+    <td><sub><code>REAL-TIME + MEDIA</code></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Socket.IO-0b1030?style=for-the-badge&logo=socketdotio&logoColor=white" height="32" alt="Socket.IO" />
+      <img src="https://img.shields.io/badge/WebRTC-0b1030?style=for-the-badge&logo=webrtc&logoColor=white" height="32" alt="WebRTC" />
+      <img src="https://img.shields.io/badge/Cloudinary-0b1030?style=for-the-badge&logo=cloudinary&logoColor=3448c5" height="32" alt="Cloudinary" />
+    </td>
+  </tr>
+  <tr>
+    <td><sub><code>TOOLS</code></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="40" alt="Git, GitHub, VS Code" /></td>
+  </tr>
+</table>
 
-Highlights
-- Package management, itinerary building, and seasonal pricing
-- Role-based authentication and administrative moderation
-- Audit logging and push-notification workflows
-<sub>React Native · Expo · TypeScript · Node.js · Express · Supabase · PostgreSQL · Cloudinary · TanStack Query · Zustand</sub>
-02 — Med4U
-Digital healthcare · Mobile / APIs / Real-time
+<br/>
 
-A healthcare platform concept spanning doctor discovery, appointments, video consultations, prescriptions, medicine ordering, and lab services.
+## `03` Featured projects
 
-Engineering focus
-- Patient and doctor applications backed by a NestJS API
-- Phone OTP authentication and JWT session workflows
-- WebRTC video consultation signaling with Socket.IO
-- Doctor availability, appointments, medical reports, and prescriptions
-<sub>React Native · Expo · NestJS · TypeScript · PostgreSQL · Redis · Socket.IO · WebRTC</sub>
-Project status: features and integrations should be evaluated against the current codebase; real-device and production verification may still be required.
+### NextTrip
 
-03 — API Directory
-Public API discovery · Web
+<img src="assets/cover-nexttrip.svg" width="100%" alt="NextTrip project cover: three stacked app screens joined by a dashed travel route" />
 
-A searchable directory for exploring free public APIs through category-based discovery and detailed API pages.
+A full-stack travel marketplace connecting travelers, vendors and administrators, with a dedicated React Native app for each role.
 
-Highlights
-- 30 curated APIs across 13 categories
-- Search and filtering by API details
-- API detail pages and a submission interface
-- Reported production build with 35 prerendered pages
-<sub>Next.js · React · TypeScript · Tailwind CSS</sub>
-03 / Technology map
-<div align="center">
+`3 role-specific apps` · `95 REST endpoints` · `17 backend service modules` · `22 PostgreSQL tables`
 
-MOBILE & UI
-<img src="https://skillicons.dev/icons?i=react,expo,nextjs,ts,tailwind&theme=dark" alt="React, Expo, Next.js, TypeScript, Tailwind CSS" />
+**Stack:** React Native · Expo · Node.js · Express · TypeScript · Supabase · PostgreSQL · Cloudinary · TanStack Query · Zustand
 
-
-BACKEND & DATA
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,redis,supabase&theme=dark" alt="Node.js, NestJS, Express, PostgreSQL, Redis, Supabase" />
-
-
-REAL-TIME, INFRA & TOOLS
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" alt="Docker, Git, GitHub, Visual Studio Code" />
-
-</div>
+[Repository](https://github.com/abhishek-0409/NextTrip)
 
 <details>
-<summary><b>More about the stack</b></summary>
+<summary>More about NextTrip</summary>
 
-- Mobile: React Native, Expo
-- Frontend: React, Next.js, TypeScript, Tailwind CSS
-- Backend: Node.js, NestJS, Express
-- Data: PostgreSQL, Redis, Supabase
-- Real-time: Socket.IO, WebRTC
-- Media and tooling: Cloudinary, Docker, Git, GitHub, VS Code
-- State and data fetching: TanStack Query, Zustand
+<br/>
+
+- Package discovery by destination, category, price, duration, rating and amenities
+- Vendor portal: package management, Cloudinary images, itinerary builder, seasonal pricing
+- Admin portal: approvals, moderation, bookings, reviews, categories, locations, payouts
+- JWT authentication with role-based access for travelers, vendors and admins
+- Append-only audit logs and Expo push notifications
+
 </details>
 
-04 / What I care about
+<br/>
+
+### Med4U
+
+<img src="assets/cover-med4u.svg" width="100%" alt="Med4U project cover: a glowing pulse line beside floating 3D cubes" />
+
+A healthcare platform covering doctor discovery, appointments, video consultation, prescriptions, medicine ordering and lab-test requests, built as a patient app, a doctor app and a NestJS API.
+
+`3 codebases` · `19 database migrations` · `549 automated tests passing at last full run`
+
+**Stack:** React Native · Expo · NestJS · TypeScript · PostgreSQL · Redis · Socket.IO · WebRTC
+
+> **Status:** working prototype for a final-year project, not production-ready. Video calls are covered by automated tests with mocked WebRTC but have not been verified on two physical devices, and the seeded doctors and medicines are demo data.
+
+<!-- Repository link omitted: the Med4U repositories were not publicly reachable when this README was written.
+     Add [Repository](https://github.com/abhishek-0409/<repo>) once it is public. -->
+
+<details>
+<summary>More about Med4U</summary>
+
+<br/>
+
+- Phone OTP login (hashed codes, expiry, rate limits) with JWT access tokens and rotating refresh tokens
+- Doctor discovery, availability and appointment booking with database-level protection against double booking
+- Video consultation: REST room authorization, Socket.IO signaling (offer, answer, ICE), two-person rooms, time-window checks
+- Doctor-issued prescriptions with versioned amendments, patient report uploads, and a pharmacy order flow
+- Doctor registration with an admin review workflow
+- Not yet done: on-device end-to-end verification, TURN relay, real-user testing, ML report analysis
+
+</details>
+
+<br/>
+
+### API Directory
+
+<img src="assets/cover-apidirectory.svg" width="100%" alt="API Directory project cover: curly braces framing a grid of glowing API tiles" />
+
+A Next.js platform for discovering and exploring free public APIs, with search, category and authentication filters, detail pages and a submission form.
+
+`30 curated APIs` · `13 categories` · `35 prerendered pages in the reported production build`
+
+**Stack:** Next.js 14 · React 18 · TypeScript · Tailwind CSS
+
+[Repository](https://github.com/abhishek-0409/api.directory)
+
+<br/>
+
+## `04` GitHub activity
+
 <div align="center">
 
-SYSTEMS	PRODUCT	ENGINEERING
-API design & data flow	Clear mobile UX	Maintainable architecture
-Authentication & access control	Useful end-to-end workflows	Testing & debugging
-Real-time communication	Reliable integrations	Explicit trade-offs
+<a href="https://github.com/abhishek-0409">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-0409&theme=tokyonight&hide_border=true" width="49%" alt="GitHub contribution streak for abhishek-0409" />
+</a>
+<a href="https://github.com/abhishek-0409?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-0409&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most used languages across public repositories" />
+</a>
 
+<sub>Widgets are third-party and may be briefly unavailable. <a href="https://github.com/abhishek-0409">See live activity on GitHub</a>.</sub>
 
 </div>
 
-05 / GitHub signal
+<br/>
+
+## `05` Contact
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishek-0409&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" alt="GitHub profile statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-0409&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1" alt="Most used public repository languages" />
+<a href="https://abhishek04-portfolio.netlify.app/"><b>Portfolio</b></a> &nbsp;·&nbsp; <a href="https://github.com/abhishek-0409"><b>GitHub</b></a> &nbsp;·&nbsp; <a href="mailto:abhi040901@gmail.com"><b>abhi040901@gmail.com</b></a>
 
+<sub>GitHub Markdown cannot run interactive 3D, so the interactive side lives on the portfolio.</sub>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-0409&bg_color=0B1020&color=CBD5E1&line=67E8F9&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img src="assets/footer.svg" width="100%" alt="Abstract 3D cube footer reading: for interactive 3D, see the portfolio" />
 
 </div>
-
-06 / Connect
-<div align="center">
-
-Have a mobile product, full-stack system, or real-time workflow to build?
-
-<a href="https://abhishek04-portfolio.netlify.app/"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-0B1020?style=for-the-badge&logo=vercel&logoColor=67E8F9" alt="Explore portfolio" /></a>
-<a href="mailto:abhi040901@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-0B1020?style=for-the-badge&logo=gmail&logoColor=FCA5A5" alt="Email Abhishek" /></a>
-
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0e7490,50:312e81,100:0b1020" alt="" />
-
-<sub>Designed with a little depth. Built around real projects.</sub>
-</div>
-
-

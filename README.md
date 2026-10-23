@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="assets/hero.svg" width="100%" alt="Abhishek Kumar, React Native Developer and Full-Stack Engineer, over floating isometric 3D cubes on a midnight grid" />
